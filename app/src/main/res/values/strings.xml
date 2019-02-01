@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReproductorVideoAudio</string>
+    <string name="lblAudio">Audio</string>
+    <string name="lblVideo">Video</string>
+    <string name="video1">NYC Timelapse</string>
+    <string name="video2">BCN Timelapse</string>
+    <string name="audio1">So 1</string>
+    <string name="audio2">So 2</string>
+    <string name="audio3">Melodia</string>
+</resources>
